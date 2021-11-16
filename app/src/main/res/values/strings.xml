@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">SRS10</string>
-    <string name="second_activity">На активность №2</string>
-    <string name="general">Главная</string>
-    <string name="second_activity_text">Активность №2</string>
+    <string name="app_name">Решатель квадратных уравнений</string>
+    <string name="text_view">Введите параметры квадратного уравления </string>
+    <string name="equation">ax^2 + bx + c = 0</string>
+    <string name="second_activity">История</string>
+    <string name="general">Калькулятор</string>
+    <string name="calc_button">Расчет</string>
+    <string name="email_button">Написать нам</string>
 </resources>

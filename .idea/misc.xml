@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/layout/activity_main.xml" value="0.2907608695652174" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/layout/fragment_about.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/layout/fragment_email.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/layout/fragment_menu.xml" value="0.2907608695652174" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/menu/bottom_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/layout/history_list_item.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SRS10/app/src/main/res/menu/bottom_menu.xml" value="0.35294117647058826" />
       </map>
     </option>
   </component>

@@ -2,11 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/menu"
-        android:title="@string/general"
         android:enabled="true"
-        android:icon="@drawable/imenu_icon"/>
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="@string/general" />
     <item
         android:id="@+id/second_activity_button"
-        android:title="@string/second_activity"
-        android:icon="@drawable/ic_baseline_account_circle_24"/>
+        android:icon="?android:attr/actionModeFindDrawable"
+        android:title="@string/second_activity" />
+    <item
+        android:id="@+id/send_email_button"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/email_button" />
 </menu>
